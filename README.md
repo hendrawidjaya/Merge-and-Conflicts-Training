@@ -1,1 +1,1 @@
-# Merge-and-Conflicts-Training
+REMOTE
